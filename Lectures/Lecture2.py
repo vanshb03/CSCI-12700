@@ -45,7 +45,7 @@ for num in [2,4,6,8,10]:
     print(num)
 
 sum = 0
-for x in range(0,12,2): ⁡⁣⁢⁣""" This is in the format: range(start, stop, step) """⁡
+for x in range(0,12,2): #⁡⁣⁢⁣This is in the format: range(start, stop, step)⁡
     print(x)
     sum = sum + x
 print(sum)
@@ -58,10 +58,10 @@ words = input("Enter your words in one line:")
 num = words.count("s")
 print(num)
 
-⁡⁣⁢⁣"""
-A variable is a reserved memory location for storing a value.
--> Different kinds, or types, of values need different amounts of space:
-    -> int: integer or whole numbers
-    -> float: floating point or real numbers
-    -> string: sequence of characters
-"""⁡
+# #⁡⁣⁢
+# A variable is a reserved memory location for storing a value.
+# -> Different kinds, or types, of values need different amounts of space:
+#     -> int: integer or whole numbers
+#     -> float: floating point or real numbers
+#     -> string: sequence of characters
+# ""⁡
