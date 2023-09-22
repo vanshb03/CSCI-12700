@@ -4,7 +4,6 @@
 #This program will implements the pseudocode that makes a spiraling square shape going outwards
 
 import turtle
-wn = turtle.Screen()
 
 thomasH = turtle.Turtle()
 
