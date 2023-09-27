@@ -16,13 +16,13 @@ graph = np.ones([num,num,3])
 
 for i in range(num):
     if i%2==0:
-        graph[::1,:,0:]=1.0
-        graph[::1,:,2:]=0
+        graph[::1,:,0:3]=1.0
+        graph[::1,:,2]=0
 
     else:
-        graph[::2,:,0:]=1.0
-        graph[::2,:,1:]=0
-        graph[::2,:,2:]=1.0
+        graph[::2,:,0:3]=1.0
+        graph[::2,:,1]=0
+        # graph[::2,:,2:]=1.0
     #     graph[::1,:,2]=0
 
 plt.imsave(output,graph)
