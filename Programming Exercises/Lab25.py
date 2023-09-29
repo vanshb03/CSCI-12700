@@ -21,15 +21,15 @@ for ch in commands:
         tess.penup()
     elif ch == 'v':          #lower pen
         tess.pendown()
-    elif ch == 'B':
+    elif ch == 'B':         #move backward
         tess.backward(50)
-    elif ch == 'S':
+    elif ch == 'S':         #Stamp
         tess.stamp()
-    elif ch == 'l':
+    elif ch == 'l':         #Turn left by 45 degrees
         tess.left(45)
-    elif ch == 'r':
+    elif ch == 'r':         #Turn right by 45 degrees
         tess.right(45)
-    elif ch == 'p':
+    elif ch == 'p':         #Add color :)
         tess.color("purple")
     else:                   #for any other character, print an error message 
         print("Error: do not know the command:", ch) #typo, was c before

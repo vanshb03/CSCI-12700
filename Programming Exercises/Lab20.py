@@ -5,7 +5,7 @@
 
 # A useful formula: miles = 0.621371* kilometers.
 
-kilometers = int(input("Enter number of kilometers"))
+kilogram = int(input("Enter number of kilometers"))
 miles = 0.621371* kilometers
 
 print(miles)

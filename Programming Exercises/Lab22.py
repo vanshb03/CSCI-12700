@@ -3,7 +3,6 @@
 #Date: 09/20/2023
 #Write a logical epxression that is equivalent to the circuit that computes the majority of 3 inputs, called in1, in2, in3:
 
-# If two or more of the inputs are True, then your expression should evaluate to True.
-# Otherwise (two or more of the inputs are False), then your expression should evaluate to False.
+# If two or more of the inputs are True, then your expression should evaluate to True. Otherwise (two or more of the inputs are False), then your expression should evaluate to False.
 
 out = ((in1 and in2) or (in1 and in3)) or (in2 and in3)

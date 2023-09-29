@@ -18,5 +18,3 @@ for i in range(ca.shape[0]):
                countSnow = countSnow + 1
 
 print("Snow count is", countSnow)
-
-# 
