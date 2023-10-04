@@ -11,5 +11,4 @@ for x in range(5,305,5):
     thomasH.forward(x)
     thomasH.left(91)
 
-
 turtle.Screen().exitonclick()

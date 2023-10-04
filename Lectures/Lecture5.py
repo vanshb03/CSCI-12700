@@ -1,7 +1,7 @@
 #Name: Vansh Bataviya
 #Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/19/2023
-#This highlights what was covered in Lec_4
+#This highlights what was covered in Lec_5
 
 #Group Work 1
 import numpy as np

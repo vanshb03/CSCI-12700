@@ -14,4 +14,4 @@ for i in words:
         count = count + 1
 
 print("Number of words: ",len(words))
-print("Fraction of your list that is plural is: ",count/len(words))• 
+print("Fraction of your list that is plural is: ",count/len(words))
