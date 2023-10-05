@@ -144,11 +144,9 @@ print(groupAvg["Rainfall"].mean())
     # 1 Import libraries.
 import pandas as pd
     # 2 Read in the CSV file.
-rain =
-pd.read csv("AustraliaRain.csv",skiprows=1)
+rain = pd.read_csv("AustraliaRain.csv",skiprows=1)
     # 3 Group the data by location get data for group Albury.
-AlburyAvg =
-rain.groupby("Location").get group("Albury")
+AlburyAvg = rain.groupby("Location").get_group("Albury")
     # 4 Print the average rainfall in Albury.
 print(AlburyAvg["Rainfall"].mean())
 
