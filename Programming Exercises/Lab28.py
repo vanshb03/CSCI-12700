@@ -9,7 +9,7 @@ import pandas as pd
 
 name = input("Enter borough name: ")
 
-pop = pd.read_csv('nycHistPop.csv',skiprows=5)``
+pop = pd.read_csv('nycHistPop.csv',skiprows=5)
 
 print("Average Population: ", pop[name].mean())
 print("Max Population: ", pop[name].max())

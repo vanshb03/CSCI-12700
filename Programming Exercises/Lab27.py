@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 name = input("Enter borough name: ")
-output = input("Enter borough name: ")
+output = input("Enter image name: ")
 
 pop = pd.read_csv('nycHistPop.csv',skiprows=5)
 pop['Fraction'] = pop[name]/pop['Total']

@@ -10,6 +10,7 @@ words = list.split()
 count = 0
 
 for i in words:
+    print(i)
     if i[-1] == "s":
         count = count + 1
 

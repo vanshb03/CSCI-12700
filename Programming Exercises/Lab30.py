@@ -1,5 +1,6 @@
 #Name: Vansh Bataviya
-#Date: October 2023
-#Account name for my Github Account
+#Email: vansh.bataviya94@myhunter.cuny.edu
+#Date: 10/05/2023
+#Vansh Github
 
-vanshb03
+Github: vanshb03
