@@ -1,0 +1,11 @@
+#Name: Vansh Bataviya
+#Date: November 2023
+#Defining Main function that will print Hello World.
+
+ADDI $s0, $zero, 0 #set s0 to 10
+ADDI $s1, $zero, 5  #use to decrement counter, $s0
+ADDI $s2, $zero, 50
+AGAIN: ADD $s0, $s0, $s1
+BEQ $s0, $s2, DONE
+J AGAIN
+DONE:  #To break out of the loop
