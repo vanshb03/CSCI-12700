@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 08/31/2023
-#This program will be making an Octagon
+#This program will be making an Octagon using the turtle module.
 
 import turtle
 wn = turtle.Screen()

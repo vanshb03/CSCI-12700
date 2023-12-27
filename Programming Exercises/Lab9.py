@@ -1,5 +1,3 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/05/2023
 #This program will prompts the user to enter a word and then prints out the word with each letter shifted right by 13. 
 #That is, 'a' becomes 'n', 'b' becomes 'o', ... 'y' becomes 'l', and 'z' becomes 'm'.

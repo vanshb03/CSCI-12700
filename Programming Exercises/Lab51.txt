@@ -1,0 +1,9 @@
+#Name: Vansh Bataviya
+#Date: November 2023
+#Defining Main function that will print Hello World.
+
+mkdir projectFiles
+cd projectFiles
+mkdir source
+mkdir data
+mkdir results

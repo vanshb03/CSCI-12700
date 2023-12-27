@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 08/31/2023
-#This program will be making the Fall Flower
+#This program will be making the Fall Flower using the Turtle module.
 
 import turtle
 wn = turtle.Screen()

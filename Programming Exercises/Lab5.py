@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 08/31/2023
-#This program will be making the a Five-Pointed Star
+#This program will be making the a Five-Pointed Star using the Turtle module.
 
 import turtle
 wn = turtle.Screen()

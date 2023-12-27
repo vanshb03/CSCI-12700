@@ -1,0 +1,5 @@
+#Name: Vansh Bataviya
+#Date: November 2023
+#Defining Main function that will print Hello World.
+
+ls -l | grep ".py" | wc -l

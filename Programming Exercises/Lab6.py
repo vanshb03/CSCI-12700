@@ -1,5 +1,3 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/05/2023
 #This program will print out the numbers from 0 to 14.
 
