@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: October 2023
-#Defining Main function that will print Hello World.
+#Date: 11/15/2023
+#This program implements a recursive approach using the Turtle graphics library in Python to draw two triangles of decreasing sizes, one filled and nested within the other, each starting from opposite sides of the screen.
 
 import turtle
 def setUp(t, dist, col):

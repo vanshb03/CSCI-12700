@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: October 2023
-#Defining Main function that will print Hello World.
+#Date: 11/15/2023
+#This program implements a simple function, monthString, which takes a numeric input representing a month and returns its corresponding string representation, and the main function that takes user input for a month number, calls the monthString function, and prints the result.
 
 
 def monthString(monthNum):

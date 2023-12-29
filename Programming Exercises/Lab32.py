@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: October 2023
-#Defining Main function that will print Hello World.
+#Date: 09/20/2023
+#This program implements a basic Python script that defines a main function to print the "Hello, World!" message when executed.
 
 def main():
     print("Hello, World!")

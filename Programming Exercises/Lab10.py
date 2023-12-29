@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/07/2023
-#This program will implements the pseudocode that makes a spiraling square shape going outwards
+#This program will implements the pseudocode that makes a spiraling square shape going outwards using the Turtle module.
 
 import turtle
 

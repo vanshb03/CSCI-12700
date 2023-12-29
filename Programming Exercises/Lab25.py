@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/20/2023
-#A program that uses command strings to control turtle drawing
+#This program implements a turtle graphics interpreter that takes a user-input command string, where each character corresponds to a specific action (e.g., moving forward, turning left or right, lifting or lowering the pen, stamping, changing color), and visualizes the corresponding turtle graphics on a window using the Turtle module.
 
 import turtle
 

@@ -1,0 +1,4 @@
+#Date: 10/05/2023
+#This program implements a simple echo command in the shell, printing the phrase "Hello World" to the console.
+
+echo "Hello World"

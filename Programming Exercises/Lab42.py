@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: October 2023
-#Defining Main function that will print Hello World.
+#Date: 11/20/2023
+#This program implements the creation of an interactive map using the Folium package in Python, centered at latitude 40.75 and longitude -74.125, with a zoom level of 10, and adds a marker for Hunter College at coordinates (40.768731, -73.964915), saving the map as an HTML file named 'nycMap.html.'
 
 #Import the folium package for making maps
 import folium

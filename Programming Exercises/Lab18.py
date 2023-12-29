@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/20/2023
-#This program implement the piece of pseudocode as a complete program.
+#This program implements the generation of a checkerboard pattern with the specified size, where even rows are white and odd rows are black, and saves the resulting image to the specified output file using matplotlib and numpy.
 
 import numpy as np
 from matplotlib import pyplot as plt

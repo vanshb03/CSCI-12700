@@ -1,5 +1,3 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/20/2023
 #This program that converts kilometers to miles. Your program should prompt the user for the number of kilometers and then print out the number of miles.
 

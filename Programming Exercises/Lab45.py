@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: October 2023
-#Defining Main function that will print Hello World.
+#Date: 11/25/2023
+#This program implements a Python script that utilizes the Folium library and Pandas to interactively prompt the user for a CSV file, read its contents into a dataframe, and obtain the column names containing latitude and longitude.
 
 # Modified by: Vansh
 import folium

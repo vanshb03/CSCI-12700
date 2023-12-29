@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/20/2023
-#This program implement the piece of pseudocode as a complete program.
+#This program implements a string manipulation script that generates substrings of an input string 's' by iteratively printing its prefixes and suffixes, followed by a concluding message.
 
 s = input("Enter string:")
 ls = len(s)

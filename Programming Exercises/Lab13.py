@@ -1,5 +1,3 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/13/2023
 #This program draws a cornflower blue pentagon using the turtle module.
 

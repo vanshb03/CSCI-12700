@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: October 2023
-#Defining Main function that will print Hello World.
+#Date: 11/20/2023
+#This program implements a function, convert, that takes a hexadecimal string as input and returns its decimal equivalent, utilizing a loop to iterate through each character of the input string and applying the corresponding conversion logic.
 
 # Modified by: Vansh
 

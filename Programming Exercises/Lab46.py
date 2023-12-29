@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: November 2023
-#Defining Main function that will print Hello World.
+#Date: 12/01/2023
+#This program implements an image processing script that divides an input image into progressively smaller regions, averaging the RGB values within each region, and displaying the resulting images at different levels of granularity.
 
 # Modified by: Vansh
 import numpy as np

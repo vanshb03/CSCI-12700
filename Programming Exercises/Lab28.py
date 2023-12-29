@@ -1,8 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 10/05/2023
-#Build a circuit that has the same behavior as a nand gate (i.e. for the same inputs, gives identical output) using only and, or, and not gates.
-#It doesn't run bozo
+#This program implements a Python script that uses the matplotlib and pandas libraries to visualize and analyze historical population data for New York City boroughs, prompting the user to input a specific borough name and then displaying the average and maximum population for that borough.
 
 import matplotlib.pyplot as plt
 import pandas as pd

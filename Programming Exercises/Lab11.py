@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/11/2023
-#This program will make a drop that gets lighter the further right it goes.
+#This program will make a drop that gets lighter the further right it goes using the Turtle Module.
 
 import turtle				#Import the turtle drawing package
 

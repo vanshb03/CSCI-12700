@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: October 2023
-#Defining Main function that will print Hello World.
+#Date: 11/15/2023
+#This program implements a fare calculator for the Long Island Rail Road (LIRR) Transit, determining the fare based on the specified zone and ticket type, with different rates for peak and off-peak times.
 
 def computeFare(zone, ticketType):
      """

@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: November 2023
-#Defining Main function that will print Hello World.
+#Date: 11/25/2023
+#This program implements a MIPS assembly code that stores the string "Hello, World!" at the top of the stack and then prints it to the log using the MIPS system call for printing strings.
 
 # Store 'Hello world!' at the top of the stack
 ADDI $sp, $sp, -14

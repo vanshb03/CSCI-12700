@@ -1,7 +1,5 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/05/2023
-#This program asks the user for 5 whole (integer) numbers. For each number, turn the turtle left the degrees entered and then the turtle should move forward 100..
+#This program asks the user for 5 whole (integer) numbers. For each number using the turtle module, turn the turtle left the degrees entered and then the turtle should move forward 100.
 
 import turtle
 

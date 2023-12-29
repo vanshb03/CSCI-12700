@@ -1,5 +1,3 @@
-#Name: Vansh Bataviya
-#Email: vansh.bataviya94@myhunter.cuny.edu
 #Date: 09/05/2023
 #This program will print each character of the word reverse twice with a space gap in between.
 
