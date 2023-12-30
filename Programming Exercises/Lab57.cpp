@@ -1,10 +1,5 @@
-// Name: Vansh Bataviya
-// Date: November 2023
-// Email: vansh.bataviya94@myhunter.cuny.edu
+// Date: 12/03/2023
 // Defining Main function that will print Hello World.
-
-#include <iostream>
-using namespace std;
 
 #include <iostream>
 using namespace std;

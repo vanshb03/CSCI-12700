@@ -1,7 +1,5 @@
-#Date: 11/25/2023
-#Defining Main function that will print Hello World.
-
-# Modified by: Vansh
+#Date: 12/01/2023
+#This program implements a loop that prompts the user to enter a non-empty string, continually requesting input until a non-empty string is provided, and then prints the entered string.
 
 word = input("Enter a non-empty string:")
 

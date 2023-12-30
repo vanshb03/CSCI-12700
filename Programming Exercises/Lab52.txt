@@ -1,5 +1,4 @@
-#Name: Vansh Bataviya
-#Date: November 2023
-#Defining Main function that will print Hello World.
+#Date: 12/01/2023
+#This program implements a command-line sequence that lists files in the current directory, filters those with a ".py" extension using grep, and then counts the number of lines to determine the total count of Python files in the directory.
 
 ls -l | grep ".py" | wc -l

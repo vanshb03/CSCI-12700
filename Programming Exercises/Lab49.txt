@@ -1,4 +1,4 @@
-#Date: 11/25/2023
+#Date: 12/01/2023
 #This program implements a MIPS assembly code that stores the string "Hello, World!" at the top of the stack and then prints it to the log using the MIPS system call for printing strings.
 
 # Store 'Hello world!' at the top of the stack

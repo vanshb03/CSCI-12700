@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: November 2023
-#Defining Main function that will print Hello World.
+#Date: 12/01/2023
+#This program implements a sequence of commands to create a directory structure, including "projectFiles," "source," "data," and "results."
 
 mkdir projectFiles
 cd projectFiles

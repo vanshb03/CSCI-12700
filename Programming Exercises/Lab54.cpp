@@ -1,7 +1,12 @@
-// Name: Vansh Bataviya
-// Date: November 2023
-// Email: vansh.bataviya94@myhunter.cuny.edu
-// Defining Main function that will print Hello World.
+// Date: 12/03/2023
+// This program implements a simple C++ code using a for loop to print the phrase "Mihi cura futuri" ten times to the console.
+
+
+
+
+
+
+
 
 #include <iostream>
 using namespace std;

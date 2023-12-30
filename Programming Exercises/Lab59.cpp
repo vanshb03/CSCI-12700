@@ -1,7 +1,5 @@
-// Name: Vansh Bataviya
-// Date: November 2023
-// Email: vansh.bataviya94@myhunter.cuny.edu
-// Defining Main function that will print Hello World.
+// Date: 12/03/2023
+// This program implements a simple population growth model, where the user inputs the number of years, and it calculates and displays the population for each year based on a growth formula.
 
 #include <iostream>
 using namespace std;

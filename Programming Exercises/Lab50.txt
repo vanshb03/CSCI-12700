@@ -1,6 +1,5 @@
-#Name: Vansh Bataviya
-#Date: November 2023
-#Defining Main function that will print Hello World.
+#Date: 12/01/2023
+#This program implements a loop that adds the value in register $s1 to the counter in register $s0 until the value in $s0 equals 50, using a conditional branch (BEQ) to exit the loop and continue to the instruction labeled DONE.
 
 ADDI $s0, $zero, 0 #set s0 to 10
 ADDI $s1, $zero, 5  #use to decrement counter, $s0

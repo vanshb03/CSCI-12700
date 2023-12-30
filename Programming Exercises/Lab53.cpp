@@ -1,7 +1,5 @@
-// Name: Vansh Bataviya
-// Date: November 2023
-// Email: vansh.bataviya94@myhunter.cuny.edu
-// Defining Main function that will print Hello World.
+// Date: 12/01/2023
+// This program implements a simple C++ code that prints "Hello, World!" and "Hello, C++!" to the console.
 
 #include <iostream>
 using namespace std;

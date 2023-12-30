@@ -1,13 +1,9 @@
-// Name: Vansh Bataviya
-// Date: November 2023
-// Email: vansh.bataviya94@myhunter.cuny.edu
-// Defining Main function that will print Hello World.
+// Date: 12/03/2023
+// This program implements a simple binary representation converter, taking an integer input 'n' and outputting its binary representation with a sign bit using the two's complement method.
 
 #include <iostream>
 using namespace std;
 
-#include <iostream>
-using namespace std;
 
 int main(){
     int n;
